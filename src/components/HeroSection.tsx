@@ -24,10 +24,7 @@ const HeroSection = () => {
               <span className="text-gray-800">Korean Toys</span>
             </h1>
 
-            <p className="text-lg text-gray-600 mb-8 max-w-lg">
-              Лучшие корейские игрушки от популярных брендов. Пороро, Тайо,
-              K-pop мерч и традиционные игры для развития вашего ребенка.
-            </p>
+            <p className="text-lg text-gray-600 mb-8 max-w-lg"></p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <Button
