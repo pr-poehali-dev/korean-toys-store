@@ -17,7 +17,7 @@ const HeroSection = () => {
             </div>
 
             <h1 className="text-4xl lg:text-6xl font-bold mb-6">
-              <span className="text-red-500">한국 아이들</span>
+              <span className="text-red-500">Chingu Toys</span>
               <br />
               <span className="text-blue-600">장난감</span>
               <br />
